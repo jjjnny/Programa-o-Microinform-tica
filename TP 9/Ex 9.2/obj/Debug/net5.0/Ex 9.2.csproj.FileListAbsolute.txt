@@ -1,0 +1,16 @@
+D:\jenne\Documentos\Faculdade\1º Semestre\Microinformática\TP 9\Ex 9.2\bin\Debug\net5.0\Ex 9.2.exe
+D:\jenne\Documentos\Faculdade\1º Semestre\Microinformática\TP 9\Ex 9.2\bin\Debug\net5.0\Ex 9.2.deps.json
+D:\jenne\Documentos\Faculdade\1º Semestre\Microinformática\TP 9\Ex 9.2\bin\Debug\net5.0\Ex 9.2.runtimeconfig.json
+D:\jenne\Documentos\Faculdade\1º Semestre\Microinformática\TP 9\Ex 9.2\bin\Debug\net5.0\Ex 9.2.runtimeconfig.dev.json
+D:\jenne\Documentos\Faculdade\1º Semestre\Microinformática\TP 9\Ex 9.2\bin\Debug\net5.0\Ex 9.2.dll
+D:\jenne\Documentos\Faculdade\1º Semestre\Microinformática\TP 9\Ex 9.2\bin\Debug\net5.0\ref\Ex 9.2.dll
+D:\jenne\Documentos\Faculdade\1º Semestre\Microinformática\TP 9\Ex 9.2\bin\Debug\net5.0\Ex 9.2.pdb
+D:\jenne\Documentos\Faculdade\1º Semestre\Microinformática\TP 9\Ex 9.2\obj\Debug\net5.0\Ex 9.2.csproj.AssemblyReference.cache
+D:\jenne\Documentos\Faculdade\1º Semestre\Microinformática\TP 9\Ex 9.2\obj\Debug\net5.0\Ex 9.2.GeneratedMSBuildEditorConfig.editorconfig
+D:\jenne\Documentos\Faculdade\1º Semestre\Microinformática\TP 9\Ex 9.2\obj\Debug\net5.0\Ex 9.2.AssemblyInfoInputs.cache
+D:\jenne\Documentos\Faculdade\1º Semestre\Microinformática\TP 9\Ex 9.2\obj\Debug\net5.0\Ex 9.2.AssemblyInfo.cs
+D:\jenne\Documentos\Faculdade\1º Semestre\Microinformática\TP 9\Ex 9.2\obj\Debug\net5.0\Ex 9.2.csproj.CoreCompileInputs.cache
+D:\jenne\Documentos\Faculdade\1º Semestre\Microinformática\TP 9\Ex 9.2\obj\Debug\net5.0\Ex 9.2.dll
+D:\jenne\Documentos\Faculdade\1º Semestre\Microinformática\TP 9\Ex 9.2\obj\Debug\net5.0\ref\Ex 9.2.dll
+D:\jenne\Documentos\Faculdade\1º Semestre\Microinformática\TP 9\Ex 9.2\obj\Debug\net5.0\Ex 9.2.pdb
+D:\jenne\Documentos\Faculdade\1º Semestre\Microinformática\TP 9\Ex 9.2\obj\Debug\net5.0\Ex 9.2.genruntimeconfig.cache
