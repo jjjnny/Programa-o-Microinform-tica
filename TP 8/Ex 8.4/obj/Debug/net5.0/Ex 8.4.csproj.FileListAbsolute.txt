@@ -1,0 +1,16 @@
+D:\jenne\Documentos\Faculdade\1º Semestre\Microinformática\TP 8\Ex 8.4\bin\Debug\net5.0\Ex 8.4.exe
+D:\jenne\Documentos\Faculdade\1º Semestre\Microinformática\TP 8\Ex 8.4\bin\Debug\net5.0\Ex 8.4.deps.json
+D:\jenne\Documentos\Faculdade\1º Semestre\Microinformática\TP 8\Ex 8.4\bin\Debug\net5.0\Ex 8.4.runtimeconfig.json
+D:\jenne\Documentos\Faculdade\1º Semestre\Microinformática\TP 8\Ex 8.4\bin\Debug\net5.0\Ex 8.4.runtimeconfig.dev.json
+D:\jenne\Documentos\Faculdade\1º Semestre\Microinformática\TP 8\Ex 8.4\bin\Debug\net5.0\Ex 8.4.dll
+D:\jenne\Documentos\Faculdade\1º Semestre\Microinformática\TP 8\Ex 8.4\bin\Debug\net5.0\ref\Ex 8.4.dll
+D:\jenne\Documentos\Faculdade\1º Semestre\Microinformática\TP 8\Ex 8.4\bin\Debug\net5.0\Ex 8.4.pdb
+D:\jenne\Documentos\Faculdade\1º Semestre\Microinformática\TP 8\Ex 8.4\obj\Debug\net5.0\Ex 8.4.csproj.AssemblyReference.cache
+D:\jenne\Documentos\Faculdade\1º Semestre\Microinformática\TP 8\Ex 8.4\obj\Debug\net5.0\Ex 8.4.GeneratedMSBuildEditorConfig.editorconfig
+D:\jenne\Documentos\Faculdade\1º Semestre\Microinformática\TP 8\Ex 8.4\obj\Debug\net5.0\Ex 8.4.AssemblyInfoInputs.cache
+D:\jenne\Documentos\Faculdade\1º Semestre\Microinformática\TP 8\Ex 8.4\obj\Debug\net5.0\Ex 8.4.AssemblyInfo.cs
+D:\jenne\Documentos\Faculdade\1º Semestre\Microinformática\TP 8\Ex 8.4\obj\Debug\net5.0\Ex 8.4.csproj.CoreCompileInputs.cache
+D:\jenne\Documentos\Faculdade\1º Semestre\Microinformática\TP 8\Ex 8.4\obj\Debug\net5.0\Ex 8.4.dll
+D:\jenne\Documentos\Faculdade\1º Semestre\Microinformática\TP 8\Ex 8.4\obj\Debug\net5.0\ref\Ex 8.4.dll
+D:\jenne\Documentos\Faculdade\1º Semestre\Microinformática\TP 8\Ex 8.4\obj\Debug\net5.0\Ex 8.4.pdb
+D:\jenne\Documentos\Faculdade\1º Semestre\Microinformática\TP 8\Ex 8.4\obj\Debug\net5.0\Ex 8.4.genruntimeconfig.cache
