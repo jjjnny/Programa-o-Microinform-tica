@@ -1,0 +1,16 @@
+D:\jenne\Documentos\Faculdade\1º Semestre\Microinformática\TP 5\Ex 5.4\bin\Debug\net5.0\Ex 5.4.exe
+D:\jenne\Documentos\Faculdade\1º Semestre\Microinformática\TP 5\Ex 5.4\bin\Debug\net5.0\Ex 5.4.deps.json
+D:\jenne\Documentos\Faculdade\1º Semestre\Microinformática\TP 5\Ex 5.4\bin\Debug\net5.0\Ex 5.4.runtimeconfig.json
+D:\jenne\Documentos\Faculdade\1º Semestre\Microinformática\TP 5\Ex 5.4\bin\Debug\net5.0\Ex 5.4.runtimeconfig.dev.json
+D:\jenne\Documentos\Faculdade\1º Semestre\Microinformática\TP 5\Ex 5.4\bin\Debug\net5.0\Ex 5.4.dll
+D:\jenne\Documentos\Faculdade\1º Semestre\Microinformática\TP 5\Ex 5.4\bin\Debug\net5.0\ref\Ex 5.4.dll
+D:\jenne\Documentos\Faculdade\1º Semestre\Microinformática\TP 5\Ex 5.4\bin\Debug\net5.0\Ex 5.4.pdb
+D:\jenne\Documentos\Faculdade\1º Semestre\Microinformática\TP 5\Ex 5.4\obj\Debug\net5.0\Ex 5.4.csproj.AssemblyReference.cache
+D:\jenne\Documentos\Faculdade\1º Semestre\Microinformática\TP 5\Ex 5.4\obj\Debug\net5.0\Ex 5.4.GeneratedMSBuildEditorConfig.editorconfig
+D:\jenne\Documentos\Faculdade\1º Semestre\Microinformática\TP 5\Ex 5.4\obj\Debug\net5.0\Ex 5.4.AssemblyInfoInputs.cache
+D:\jenne\Documentos\Faculdade\1º Semestre\Microinformática\TP 5\Ex 5.4\obj\Debug\net5.0\Ex 5.4.AssemblyInfo.cs
+D:\jenne\Documentos\Faculdade\1º Semestre\Microinformática\TP 5\Ex 5.4\obj\Debug\net5.0\Ex 5.4.csproj.CoreCompileInputs.cache
+D:\jenne\Documentos\Faculdade\1º Semestre\Microinformática\TP 5\Ex 5.4\obj\Debug\net5.0\Ex 5.4.dll
+D:\jenne\Documentos\Faculdade\1º Semestre\Microinformática\TP 5\Ex 5.4\obj\Debug\net5.0\ref\Ex 5.4.dll
+D:\jenne\Documentos\Faculdade\1º Semestre\Microinformática\TP 5\Ex 5.4\obj\Debug\net5.0\Ex 5.4.pdb
+D:\jenne\Documentos\Faculdade\1º Semestre\Microinformática\TP 5\Ex 5.4\obj\Debug\net5.0\Ex 5.4.genruntimeconfig.cache
